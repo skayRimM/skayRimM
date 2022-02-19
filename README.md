@@ -1,6 +1,6 @@
 # Hi, nice to see your!
 
-I am a Junior Front-End developer looking for a full-time position in a product company that's aimed at making both everyday life and business easier, more productive and user-friendly. I have sound knowledge of HTML, CSS, JavaScript, and React. Also, methodology when working in a team. I am a fast learner, responsible, and ready for challenging tasks.
+I am a Junior Front-End developer looking for a full-time position in a product company that's aimed at making both everyday life and business easier, more productive and user-friendly. I have sound knowledge of HTML, CSS, JavaScript, methodology when working in a team. I am a fast learner, responsible, and ready for challenging tasks.
 
 # How to reach me:
 
